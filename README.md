@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Sobre o Projeto
+##  Sobre o Projeto
 
 O **Claude Architect** é um curso open-source e prático com **40+ notebooks interativos** que te levam do básico ao avançado no ecossistema Claude/Anthropic. Cada módulo é um Jupyter Notebook executável — aprenda fazendo, não apenas lendo.
 
@@ -40,7 +40,7 @@ O **Claude Architect** é um curso open-source e prático com **40+ notebooks in
 
 ---
 
-## ⚡ Início Rápido
+##  Início Rápido
 
 ### Pré-requisitos
 
@@ -82,7 +82,7 @@ jupyter notebook
 
 ---
 
-## 📚 Trilha de Aprendizado
+##  Trilha de Aprendizado
 
 O curso é dividido em **9 módulos progressivos**. Cada semana cobre um tema, com notebooks práticos e exercícios.
 
@@ -102,20 +102,20 @@ O curso é dividido em **9 módulos progressivos**. Cada semana cobre um tema, c
 
 ---
 
-## 🏗️ Projetos Finais
+##  Projetos Finais
 
 Os projetos do módulo 09 consolidam tudo que você aprendeu:
 
-| # | Projeto | O que você constrói |
-|---|---------|-------------------|
-| 🤖 | **Chatbot Robusto** | Chatbot production-ready com guardrails, memória e fallbacks |
-| 🔍 | **Agente Pesquisador** | Agente autônomo que pesquisa, sintetiza e gera relatórios |
-| 📄 | **Pipeline RAG Completo** | Sistema RAG end-to-end com ingestão, busca e geração |
-| 🌐 | **Sistema Multiagente** | Orquestração de múltiplos agentes especializados |
+| Projeto | O que você constrói |
+|---------|-------------------|
+| **Chatbot Robusto** | Chatbot production-ready com guardrails, memória e fallbacks |
+| **Agente Pesquisador** | Agente autônomo que pesquisa, sintetiza e gera relatórios |
+| **Pipeline RAG Completo** | Sistema RAG end-to-end com ingestão, busca e geração |
+| **Sistema Multiagente** | Orquestração de múltiplos agentes especializados |
 
 ---
 
-## 🗂️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 claude-architect/
@@ -138,13 +138,13 @@ claude-architect/
 
 ---
 
-## 🤝 Contribuindo
+##  Contribuindo
 
 Contribuições são bem-vindas! Veja o [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre como contribuir.
 
 ---
 
-## 📜 Licença
+##  Licença
 
 MIT — use, modifique e compartilhe à vontade.
 
