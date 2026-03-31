@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E293B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="20" fill="url(#grad2)" />
+  <!-- Terminal window dots -->
+  <circle cx="24" cy="24" r="5" fill="#EF4444" />
+  <circle cx="40" cy="24" r="5" fill="#EAB308" />
+  <circle cx="56" cy="24" r="5" fill="#22C55E" />
+  <!-- Terminal cursor and text lines -->
+  <g fill="#D97706">
+    <text x="20" y="58" font-family="monospace" font-size="18" font-weight="bold">&gt;_</text>
+  </g>
+  <g fill="#94A3B8">
+    <rect x="20" y="70" width="60" height="4" rx="2" />
+    <rect x="20" y="82" width="40" height="4" rx="2" />
+    <rect x="20" y="94" width="72" height="4" rx="2" />
+  </g>
+  <!-- Small sparkle in corner -->
+  <g transform="translate(92,52)" fill="#D97706">
+    <ellipse rx="2.5" ry="10" />
+    <ellipse rx="2.5" ry="10" transform="rotate(90)" />
+    <circle r="3.5" />
+  </g>
+</svg>
