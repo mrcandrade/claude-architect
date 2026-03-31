@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.DS_Store
+memoria.json
+eval_result.json
+dashboard.png
+meu_servidor_mcp.py
+tarefas.db
