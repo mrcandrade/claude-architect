@@ -157,5 +157,3 @@ MIT — use, modifique e compartilhe à vontade.
 <br />
 
 Feito com [Claude](https://claude.ai) · Anthropic
-
-</div>
