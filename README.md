@@ -34,3 +34,4 @@ Obtenha sua chave em: https://console.anthropic.com
 MIT - use, modifique e compartilhe a vontade.
 
 Feito com Claude (Anthropic) - https://claude.ai
+![Claude](https://img.shields.io/badge/Claude-Anthropic-blueviolet?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white) 
