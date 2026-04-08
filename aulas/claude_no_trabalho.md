@@ -3,17 +3,6 @@
 ## Escola Pao dos Pobres - Porto Alegre
 ## Duracao: 1 hora
 
----
-
-## Cronograma
-
-| Tempo | Bloco | Atividade |
-|-------|-------|-----------|
-| 0-10min | Abertura | O que e o Claude? Onde ele entra no suporte? |
-| 10-25min | Bloco 1 | Como conversar com o Claude (prompts) |
-| 25-40min | Bloco 2 | Casos reais de suporte com demonstracao |
-| 40-50min | Bloco 3 | Mao na massa - exercicios em duplas |
-| 50-60min | Fechamento | Limites, boas praticas e duvidas |
 
 ---
 
